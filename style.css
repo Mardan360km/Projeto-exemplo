@@ -1,0 +1,21 @@
+@import url("styles/header.css");
+
+:root {
+--cor-de-fundo-titulo:#a72727;
+--cor-de-fundo:#F0F0F0;
+--cor-rua:#C38A1B;
+--cor-rua:#000000;
+
+}
+
+header{
+    background-color: var(--cor-de-fundo-titulo);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family:'poppins, sens-serif';
+}
+h1{
+    color: white;
+}
